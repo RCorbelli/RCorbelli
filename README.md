@@ -8,7 +8,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 Eu sou uma pessoa desenvolvedora full-stack...
 
 
-# Olá, eu sou a Katherine! 👋
+# Olá, eu sou o Rafael! 👋
 
 
 ## 🔗 Links
