@@ -14,6 +14,7 @@ Eu sou desenvolvedor.  -->
     <a>
 </div>
 
+
 **Linguagens**
  
 <div style="display: inline_block">
@@ -24,7 +25,9 @@ Eu sou desenvolvedor.  -->
   <img align="center" height="25px" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
+
 **Frameworks e ferramentas**
+
 <div style="display: inline_block">
   <img align="center" height="25px" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" height="25px" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -33,6 +36,7 @@ Eu sou desenvolvedor.  -->
   <img align="center" height="25px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
   <img align="center" height="25px" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </div>
+
 
 **DB e Cloud**
 
@@ -44,7 +48,7 @@ Eu sou desenvolvedor.  -->
   <img align="center" height="25px" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
-<br><br><br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/RCorbelli">
