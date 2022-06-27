@@ -5,7 +5,7 @@ Eu sou desenvolvedor.  -->
 
 # Olá, eu sou o Rafael! 👋
 
-**Minhas redes sociais:**
+# Fale comigo:
 
 <div aling="center"> 
     <a href="https://www.linkedin.com/in/rafael-corbelli/"> <img height="22em" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
@@ -15,8 +15,8 @@ Eu sou desenvolvedor.  -->
 </div>
 
 
-**Linguagens**
- 
+# Linguagens
+
 <div style="display: inline_block">
   <img align="center" height="25px" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" height="25px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -26,7 +26,7 @@ Eu sou desenvolvedor.  -->
 </div>
 
 
-**Frameworks e ferramentas**
+# Frameworks e ferramentas
 
 <div style="display: inline_block">
   <img align="center" height="25px" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -38,7 +38,7 @@ Eu sou desenvolvedor.  -->
 </div>
 
 
-**DB e Cloud**
+# DB e Cloud
 
 <div style="display: inline_block">
   <img align="center" height="25px" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -50,7 +50,7 @@ Eu sou desenvolvedor.  -->
 
 <br><br>
 
-<div align="center">
+<div align="center" >
   <a href="https://github.com/RCorbelli">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=RCorbelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCorbelli&layout=compact&langs_count=7&theme=tokyonight"/>
