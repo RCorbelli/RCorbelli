@@ -1,26 +1,21 @@
 
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
-
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Eu sou desenvolvedor. 
 
 
 # Olá, eu sou o Rafael! 👋
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-corbelli/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
 
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na/no...
+<!-- ## Outras seções comuns em perfis do GitHub -->
+<!-- 👩‍💻 Trabalho atualmente na Valemobi/Trademap. -->
 
-🧠 Estou aprendendo...
+<!-- 🧠 Estou aprendendo...
 
 👯‍♀️ Procuro colaborar em...
 
@@ -32,9 +27,9 @@ Eu sou uma pessoa desenvolvedora full-stack...
 
 😄 Pronomes...
 
-⚡️ Fatos engraçados...
+⚡️ Fatos engraçados... -->
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+React, React Native, Spring Boot, JavaScript, Kotlin, Html, Css, SQL.
 
